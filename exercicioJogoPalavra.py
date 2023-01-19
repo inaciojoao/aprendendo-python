@@ -1,6 +1,6 @@
 import os
 
-palavra_secreta = 'vodka'
+palavra_secreta = 'vodka'  #aqui vc escolhe a palavra secreta
 letras_acertadas = ""
 numero_tentativa = 0
 while True:
